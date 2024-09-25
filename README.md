@@ -1,1 +1,1 @@
-# vsd-soc-design-and-planning
+# Digital VLSI SoC Design & Planning
